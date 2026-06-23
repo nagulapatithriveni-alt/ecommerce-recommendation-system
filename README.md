@@ -41,3 +41,4 @@ This project implements an E-Commerce Product Recommendation System using Machin
 ## Conclusion
 
 The recommendation engine successfully identifies similar products based on customer purchasing patterns and demonstrates a real-world application of machine learning in e-commerce platforms.
+
